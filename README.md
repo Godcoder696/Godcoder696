@@ -1,7 +1,6 @@
 ![MasterHead](https://media.licdn.com/dms/image/D5612AQGs3cA_9DYwuA/article-cover_image-shrink_600_2000/0/1677890171661?e=2147483647&v=beta&t=G1OZys6iUT-ZhEb15bzbJL9khW9D6C2nOOBPuh5uXl4)
 <h1 align="center">Hi 👋, I'm Lakshay Yadav</h1>
 <h3 align="center">Innovate 🤖, Iterate ♾️, Code 🧑‍💻</h3>
-<img align="center" alt="Developer" width="700" src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=godcoder696&label=Profile%20views&color=0e75b6&style=flat" alt="godcoder696" /> </p>
 
@@ -16,6 +15,8 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Bil6LyS9Sf91kfqxVbgV47vE4HMo7ju3/view?usp=sharing](https://drive.google.com/file/d/1Bil6LyS9Sf91kfqxVbgV47vE4HMo7ju3/view?usp=sharing)
 
 - ⚡ Fun fact **Why don't programmers like nature? It has too many bugs!**
+
+- <img align="center" alt="Developer" width="1000" src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
