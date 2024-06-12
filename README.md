@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=godcoder696" alt="godcoder696" /></a> </p>
 
-- 🔭 I’m currently working on [google-autocomplete-crm-widget-react](https://github.com/digismiths-club/google-autocomplete-crm-widget-react)
+- 🔭 I’m currently working on [GCO-invoice-widget](https://github.com/digismiths-club/invoice_widget_boilerplate)
 
 - 💬 Ask me about **Web Development**
 
@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact **Why don't programmers like nature? It has too many bugs!**
 
-- <img align="center" alt="Developer" width="1000" src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif"/>
+<img align="center" alt="Developer" width="1000" src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
