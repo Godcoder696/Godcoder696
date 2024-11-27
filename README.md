@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Web Development**
 
-- 📫 How to reach me **lionleo110@gmail.com**
+- 📫 How to reach me **lakshayy307@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Bil6LyS9Sf91kfqxVbgV47vE4HMo7ju3/view?usp=sharing](https://drive.google.com/file/d/1Bil6LyS9Sf91kfqxVbgV47vE4HMo7ju3/view?usp=sharing)
 
